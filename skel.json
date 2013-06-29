@@ -1,0 +1,8 @@
+{
+    "name": "docme",
+    "make": true,
+    "files": [
+        "css/*",
+        "index.html"
+    ]
+}
